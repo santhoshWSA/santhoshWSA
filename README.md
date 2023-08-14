@@ -4,6 +4,7 @@
 <div align="center">
 <img src="https://santhoshkumar.co.in/santhosh-korimi.png" alt="Banner Image" />
 </div>
+<br />
 <div align="center">
 <a href="https://santhoshkumar.co.in">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
