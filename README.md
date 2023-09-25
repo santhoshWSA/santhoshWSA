@@ -2,7 +2,7 @@
 ## Hi, I'm Santhosh Kumar Korimi, Frontend Specialist 🚀.
 
 <div align="center">
-<a href="https://santhoshkumar.co.in">
+<a href="https://santhoshkorimi.com/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/santhosh-korimi/">
