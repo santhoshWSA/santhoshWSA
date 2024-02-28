@@ -153,8 +153,8 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=santhoshWSA&theme=dark&hide_border=true" alt = "Santhosh's Rating" width = 400 >
 </div>
 
-## Github Details
-<div align=center>
+## Github Stats
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshWSA&theme=vue" alt="summary" />
 </div>
 
