@@ -26,18 +26,6 @@
 - 💬 Ask me about queries related to frontend, I am happy to help;
 - 📫 How to reach me: +91 9948242188;
 
-**Languages and Frameworks:** 
-
-<div>
-    <img height="32px" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
-  <img height="32px" src="https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=white">
-  <img height="32px" src="https://img.shields.io/badge/reactnative-3c1361?style=for-the-badge&logo=react&logoColor=white">
-  <img height="32px" src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=vercel&logoColor=white">
- <img height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img height="32px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
- <img height="32px" src="https://img.shields.io/badge/scss-cd6699?style=for-the-badge&logo=sass&logoColor=white">
-</div>
-
 ## SKILLS
 <table>
   <tr>
