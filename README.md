@@ -155,7 +155,7 @@
 
 ## Github Stats
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshWSA&theme=dark" alt="summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshWSA&theme=react" alt="summary" />
 </div>
 
 ---
