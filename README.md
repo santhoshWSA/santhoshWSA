@@ -58,9 +58,6 @@
     <td>
       <a title="Next" href="https://nextjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     </td>
-    <td>
-      <a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
-    </td>
   </tr>
   <tr>
     <td>
@@ -102,9 +99,6 @@
   <tr>
     <td>
       <h4>Backend Frameworks</h4>
-    </td>
-    <td>
-      <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/> </a>
     </td>
     <td>
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
